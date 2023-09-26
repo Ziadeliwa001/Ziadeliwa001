@@ -9,8 +9,9 @@ Hello, I'm Ziad Ahmed Eliwa, a passionate Computer Science and Artificial Intell
 
 ## How to Reach Me
 
-- 📧 Email: [ziadeliwa93@gmaail.com](mailto:ziadeliwa93@gmail.com)
-- 🌐 LinkedIn: [Ziad Ahmed Eliwa]((https://www.linkedin.com/in/ziad-eliwa-b48754240/))
-- 📘 Facebook: [Ziad Ahmed Eliwa](https://www.facebook.com/profile.php?id=100008291761769&mibextid=LQQJ4d))
+📧 **Email**: your_email@example.com  
 
+[![LinkedIn](https://image-url.com/linkedin-icon.png)](https://www.linkedin.com/in/your-linkedin-profile/)  
+[![Twitter](https://image-url.com/twitter-icon.png)](https://twitter.com/YourTwitterHandle)  
+[![Facebook](https://image-url.com/facebook-icon.png)](https://www.facebook.com/your-facebook-profile/)
 Feel free to connect with me if you'd like to discuss AI, computer science, or collaborate on interesting projects!
