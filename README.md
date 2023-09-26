@@ -11,7 +11,6 @@ Hello, I'm Ziad Ahmed Eliwa, a passionate Computer Science and Artificial Intell
 
 📧 **Email**: your_email@example.com  
 
-[![LinkedIn](https://image-url.com/linkedin-icon.png)](https://www.linkedin.com/in/your-linkedin-profile/)  
-[![Twitter](https://image-url.com/twitter-icon.png)](https://twitter.com/YourTwitterHandle)  
-[![Facebook](https://image-url.com/facebook-icon.png)](https://www.facebook.com/your-facebook-profile/)
+[![LinkedIn](https://image-url.com/linkedin-icon.png)](https://www.linkedin.com/in/ziad-eliwa-b48754240/)  
+[![Facebook](https://image-url.com/facebook-icon.png)](https://profile.php?id=100008291761769&mibextid=LQQJ4d/)
 Feel free to connect with me if you'd like to discuss AI, computer science, or collaborate on interesting projects!
