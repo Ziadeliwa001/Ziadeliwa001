@@ -8,6 +8,7 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **ziadeliwa93@gmail.com**
+- 🧠  I'm learning AI and Machine Learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
