@@ -7,13 +7,12 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **ziadeliwa93@gmail.com***
+- 📫 How to reach me **ziadeliwa93@gmail.com**
 - 🧠  I'm learning AI and Machine Learning
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ziad eliwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziad eliwa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ziad-eliwa-b48754240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziad-eliwa-b48754240/" height="30" width="40" /></a>
 <a href="https://fb.com/ziad ahmed eliwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ziad ahmed eliwa" height="30" width="40" /></a>
 <a href="https://instagram.com/ziadeliwa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ziadeliwa_" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ziadeliwa001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ziadeliwa001" height="30" width="40" /></a>
