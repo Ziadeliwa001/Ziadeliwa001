@@ -1,17 +1,13 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ziad
-============================================================================================================================
-
-I'm a student at the Faculty of Computers and Artificial Intelligence at Cairo University
------------------------------------------------------------------------------------------
-
-
+<h1 align="center">Hi 👋, I'm Ziad</h1>
+<h3 align="center">I'm a student at the Faculty of Computers and Artificial Intelligence at Cairo University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadeliwa001&label=Profile%20views&color=0e75b6&style=flat" alt="ziadeliwa001" /> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 💬 Ask me about **anything**
 
-* ✉️  You can contact me at [ziadeliwa93@gmail.com](mailto:ziadeliwa93@gmail.com)
-* 🧠  I'm learning AI and Machine Learning
+- 📫 How to reach me **ziadeliwa93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
