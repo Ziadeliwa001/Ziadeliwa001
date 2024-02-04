@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ziad</h1>
 <h3 align="center">I'm a student at the Faculty of Computers and Artificial Intelligence at Cairo University</h3>
 
-* ✉️  You can contact me at [ziadeliwa93@gmail.com](mailto:ziadeliwa93@gmail.com)
-* 🧠  I'm learning AI and Machine Learning
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadeliwa001&label=Profile%20views&color=0e75b6&style=flat" alt="ziadeliwa001" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziadeliwa001" alt="ziadeliwa001" /></a> </p>
 
+- 💬 Ask me about **anything**
+
+- 📫 How to reach me **ziadeliwa93@gmail.com***
+- * 🧠  I'm learning AI and Machine Learning
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ziad eliwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziad eliwa" height="30" width="40" /></a>
 <a href="https://fb.com/ziad ahmed eliwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ziad ahmed eliwa" height="30" width="40" /></a>
 <a href="https://instagram.com/ziadeliwa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ziadeliwa_" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/ziadeliwa001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ziadeliwa001" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ziadeliwa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ziadeliwa_" height="30" width="40" /></a>
 </p>
 
