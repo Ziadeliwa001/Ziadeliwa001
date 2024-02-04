@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadeliwa001&label=Profile%20views&color=0e75b6&style=flat" alt="ziadeliwa001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ziadeliwa001" alt="ziadeliwa001" /></a> </p>
-
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **ziadeliwa93@gmail.com**
