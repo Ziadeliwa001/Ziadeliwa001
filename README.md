@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a student at the Faculty of Computers and Artificial Intelligence at Cairo University
 -----------------------------------------------------------------------------------------
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadeliwa001&label=Profile%20views&color=0e75b6&style=flat" alt="ziadeliwa001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadeliwa001&label=Profile%20views&color=0e75b6&style=flat" alt="ziadeliwa001" /> </p>s
 
 * ✉️  You can contact me at [ziadeliwa93@gmail.com](mailto:ziadeliwa93@gmail.com)
 * 🧠  I'm learning AI and Machine Learning
