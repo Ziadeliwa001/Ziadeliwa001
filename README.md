@@ -17,6 +17,7 @@
 <a href="https://instagram.com/ziadeliwa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ziadeliwa_" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ziadeliwa001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ziadeliwa001" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ziadeliwa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ziadeliwa_" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Ziadeliwa001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Ziadeliwa001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
