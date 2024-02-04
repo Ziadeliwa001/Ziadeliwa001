@@ -7,8 +7,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 💬 Ask me about **anything**
-
-- 📫 How to reach me **ziadeliwa93@gmail.com**
+* ✉️  You can contact me at [ziadeliwa93@gmail.com](mailto:ziadeliwa93@gmail.com)
+* 🧠  I'm learning AI and Machine Learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
