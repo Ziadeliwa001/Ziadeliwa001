@@ -1,6 +1,6 @@
   Hi, I'm Ziad Ahmed Eliwa
  ============================================================================================================================
-<h3 align="center">I'm a student at the Faculty of Computers and Artificial Intelligence at Cairo University</h3>
+<h3 align="center">I'm a Junior at the Faculty of Computers and Artificial Intelligence at Cairo University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadeliwa001&label=Profile%20views&color=0e75b6&style=flat" alt="ziadeliwa001" /> </p>
 
