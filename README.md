@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ziad Ahmed Eliwa</h1>
-<h3 align="center">Junior @ Faculty of Computers and Artificial Intelligence, Cairo University</h3>
+<h3 align="center">M.Sc. Student in Data Science & AI @ University of Hamburg | FCAI Graduate, Cairo University</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ziadeliwa001&label=Profile%20Views&color=0e75b6&style=flat" alt="ziadeliwa001" />
@@ -21,9 +21,11 @@
 
 ## 👨‍💻 About Me
 
-- 🧠 Junior Computer Science student passionate about **Artificial Intelligence** and **Machine Learning**
+- 🎓 M.Sc. Student in **Data Science & Artificial Intelligence** at **University of Hamburg**
+- 🎓 Graduate of the **Faculty of Computers and Artificial Intelligence, Cairo University**
+- 🧠 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**
 - 🎯 Interested in **AI Engineering, Data Science, and Software Development**
-- 📚 Currently learning **Deep Learning, Computer Vision, and Backend Development**
+- 📚 Currently learning **Advanced Machine Learning, Deep Learning, and Computer Vision**
 - 🚀 Building projects in **AI, Machine Learning, and Full-Stack Development**
 - 📫 Reach me at **ziadeliwa93@gmail.com**
 
@@ -88,8 +90,8 @@
 - Machine Learning  
 - Deep Learning  
 - Computer Vision  
-- Backend Development  
 - Data Science  
+- Backend Development  
 
 ---
 
