@@ -1,28 +1,102 @@
-  Hi, I'm Ziad Ahmed Eliwa
- ============================================================================================================================
-<h3 align="center">I'm a Junior at the Faculty of Computers and Artificial Intelligence at Cairo University</h3>
+<h1 align="center">Hi 👋, I'm Ziad Ahmed Eliwa</h1>
+<h3 align="center">Junior @ Faculty of Computers and Artificial Intelligence, Cairo University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ziadeliwa001&label=Profile%20views&color=0e75b6&style=flat" alt="ziadeliwa001" /> </p>
-
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
-
-* 🧠  I'm learning AI and Machine Learning
-* ✉️  You can contact me at [ziadeliwa93@gmail.com](mailto:ziadeliwa93@gmail.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ziad-eliwa-b48754240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ziad-eliwa-b48754240/" height="30" width="40" /></a>
-<a href="https://fb.com/ziad ahmed eliwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ziad ahmed eliwa" height="30" width="40" /></a>
-<a href="https://instagram.com/ziadeliwa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ziadeliwa_" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ziadeliwa001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ziadeliwa001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ziadeliwa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ziadeliwa_" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ziadeliwa001&label=Profile%20Views&color=0e75b6&style=flat" alt="ziadeliwa001" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:ziadeliwa93@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ziadeliwa93%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ziadeliwa001">
+    <img src="https://img.shields.io/badge/GitHub-ziadeliwa001-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ziad-eliwa-b48754240/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ziad%20Eliwa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadeliwa001&show_icons=true&locale=en&layout=compact" alt="ziadeliwa001" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziadeliwa001&show_icons=true&locale=en" alt="ziadeliwa001" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadeliwa001&" alt="ziadeliwa001" /></p>
+- 🧠 Junior Computer Science student passionate about **Artificial Intelligence** and **Machine Learning**
+- 🎯 Interested in **AI Engineering, Data Science, and Software Development**
+- 📚 Currently learning **Deep Learning, Computer Vision, and Backend Development**
+- 🚀 Building projects in **AI, Machine Learning, and Full-Stack Development**
+- 📫 Reach me at **ziadeliwa93@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ziad-eliwa-b48754240/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  <a href="https://fb.com/ziad ahmed eliwa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="45" />
+  </a>
+  <a href="https://instagram.com/ziadeliwa_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45" />
+  </a>
+  <a href="https://codeforces.com/profile/ziadeliwa001" target="_blank">
+    <img src="https://cdn.simpleicons.org/codeforces" height="45" />
+  </a>
+  <a href="https://leetcode.com/ziadeliwa_" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode" height="45" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,django,mysql,tensorflow,sklearn" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="48" height="48"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="48" height="48"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ziadeliwa001&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadeliwa001&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ziadeliwa001&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Interests
+
+- Artificial Intelligence  
+- Machine Learning  
+- Deep Learning  
+- Computer Vision  
+- Backend Development  
+- Data Science  
+
+---
+
+## 💡 Quote I Like
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>  
+  <br />
+  — John Johnson
+</p>
